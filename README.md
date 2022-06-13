@@ -13,7 +13,7 @@
 </h1>
 
 ### 👨🏼‍💻 About Me:
-I'm a Software QA Automation Engineer from Taiwan🇹🇼, been developing automation test script for testing In-Vehicle Infotainment System for over a year now.
+I'm a Software QA Automation Engineer from Taiwan🇹🇼, been developing automatic test script for testing In-Vehicle Infotainment System for over a year now.
 - 👀 Interested in data analysis, app development
 - 🐍 Familiar with Python
 - 🎯 Currently learning building apps using Dart as a side project
